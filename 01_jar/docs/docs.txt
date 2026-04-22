@@ -1,0 +1,4 @@
+Projekt ten ma za zadanie zasymulować słoik kuchenny na produkty sypkie.
+Głównym zadaniem jest stworzenie drewnianej obudowy składającej sie z 4 kawałków deski połączonej ŁĄCZNIKIEM wykonamym metodą druku 3D.
+ŁĄCZNIKI ma za zadanie połączyć 2 deski pod kątem 90 stopni (możliwe użycie wkrętów). Oraz być bazą do połączenia go z kolejnymi takimi samymi modułami.
+Całość ma tworzyć swego rodzaju organizer do pułki kuchennej.

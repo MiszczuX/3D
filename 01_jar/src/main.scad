@@ -1,4 +1,4 @@
-include <lib/lib_jar.scad>;
+include <../lib/lib_jar.scad>;
 
 JAR_h = 180;
 JAR_r = 20;
